@@ -30,9 +30,16 @@ MoodiBot a chatbot music assistant that helps the user depending on the mood. Mo
 - GIFs API
 - Color Schemes based on moods (can be tricky depending on cultural differences)
 
+## Contributors
+- [Sayem Shahrier](https://github.com/sshahrier)
+- [Carolina Restrepo](https://github.com/crestrepo12)
+- [Kin](https://github.com/Kinsiu00)
+- [Osi Eastman](https://github.com/ossizel)
 
-#### Collaborators:
-- Carolina
-- Kin
-- Ossie
-- Sayem
+## License & Copyright
+
+Licensed under the [MIT License](LICENSE).
+<br>
+Copyright ©️ 2018.
+<br>
+All Rights Reserved.
